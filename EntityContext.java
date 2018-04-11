@@ -4,7 +4,7 @@ import java.util.HashMap;
 import java.util.Set;
 import java.util.concurrent.ConcurrentHashMap;
 
-public class NeighborContext {
+public class EntityContext {
 //	ConcurrentHashMap<Integer, Set<Neighbor>> neighborMap = new ConcurrentHashMap<>();
 	HashMap<Integer, Set<Neighbor>> neighborMap = new HashMap<>();
 	
