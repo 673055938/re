@@ -1,0 +1,11 @@
+{"dataset": "resource",
+"n":"50",
+"rate":"0.001",
+"epochNum":"1000",
+"batchNum":"1000",
+"threadNum":"16",
+"pathContextPath":"Path.json",
+"neighborContextPath":"Neighbor.json",
+"entity2VecPath":"",
+"relation2VecPath":"",
+"outDir":"out"}
