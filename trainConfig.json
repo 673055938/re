@@ -4,8 +4,7 @@
 "epochNum":"1000",
 "batchNum":"1000",
 "threadNum":"16",
-"pathContextPath":"Path.json",
-"neighborContextPath":"Neighbor.json",
+"EntityContextPath":"EntityContext.json",
 "entity2VecPath":"",
 "relation2VecPath":"",
 "outDir":"out"}
