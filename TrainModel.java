@@ -31,7 +31,6 @@ public class TrainModel {
 	int batchNum;
 	int threadNum;
 	String neighborContextPath;
-	String pathContextPath;
 	String entity2VecPath;
 	String relation2VecPath;
 	String outDir;
