@@ -6,7 +6,6 @@ Twenty failing queries are reported in "failing queries.xlsx";
 
 Other graph-embedding based KG query paper:
 
-*Embedding Logical Queries on Knowledge Graphs. William L. Hamilton, Marinka Zitnik, Payal Bajaj, Dan Jurafsky, Jure Leskovec.  
-Proceedings of NIPS. Dec. 2018. 
+*Embedding Logical Queries on Knowledge Graphs. William L. Hamilton, Marinka Zitnik, Payal Bajaj, Dan Jurafsky, Jure Leskovec. In Proceedings of NIPS. Dec. 2018. 
 
-*TrQuery: An Embedding-based Framework for Recommanding SPARQL Queries. 	Lijing Zhang, Xiaowang Zhang, Zhiyong Feng. Proceedings of ICTAI Nov. 2018.
+*TrQuery: An Embedding-based Framework for Recommanding SPARQL Queries. 	Lijing Zhang, Xiaowang Zhang, Zhiyong Feng. In Proceedings of ICTAI Nov. 2018.
