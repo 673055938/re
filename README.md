@@ -4,6 +4,18 @@ Dateset: DBpedia english version. Training the hole dataset will cost you too mu
 
 Twenty failing queries are reported in "failing queries.xlsx";
 
+
+Corrections to a error in my paper:
+
+The following error was introduced during the editing/proofing stages. Negative sampling Equation (5) 
+
+<img src="https://github.com/wangmengsd/re/blob/master/e.png" width="450"/>
+
+should be replaced by:
+
+<img src="https://github.com/wangmengsd/re/blob/master/r.png" width="450"/>
+
+
 Other graph-embedding based KG query paper:
 
 *Embedding Logical Queries on Knowledge Graphs. William L. Hamilton, Marinka Zitnik, Payal Bajaj, Dan Jurafsky, Jure Leskovec. In Proceedings of NIPS. Dec. 2018. 
